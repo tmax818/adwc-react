@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/adwc-react/static/css/main.f062fd30.chunk.css",
+    "main.js": "/adwc-react/static/js/main.11280b66.chunk.js",
+    "main.js.map": "/adwc-react/static/js/main.11280b66.chunk.js.map",
+    "runtime-main.js": "/adwc-react/static/js/runtime-main.cd47eb97.js",
+    "runtime-main.js.map": "/adwc-react/static/js/runtime-main.cd47eb97.js.map",
+    "static/js/2.a6c45601.chunk.js": "/adwc-react/static/js/2.a6c45601.chunk.js",
+    "static/js/2.a6c45601.chunk.js.map": "/adwc-react/static/js/2.a6c45601.chunk.js.map",
+    "index.html": "/adwc-react/index.html",
+    "precache-manifest.0a94b441ed57f6457c885d92b6fe7072.js": "/adwc-react/precache-manifest.0a94b441ed57f6457c885d92b6fe7072.js",
+    "service-worker.js": "/adwc-react/service-worker.js",
+    "static/css/main.f062fd30.chunk.css.map": "/adwc-react/static/css/main.f062fd30.chunk.css.map",
+    "static/js/2.a6c45601.chunk.js.LICENSE": "/adwc-react/static/js/2.a6c45601.chunk.js.LICENSE",
+    "static/media/App.css": "/adwc-react/static/media/bg-top.067187ee.jpg",
+    "static/media/logo.png": "/adwc-react/static/media/logo.43dc3faf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd47eb97.js",
+    "static/js/2.a6c45601.chunk.js",
+    "static/css/main.f062fd30.chunk.css",
+    "static/js/main.11280b66.chunk.js"
+  ]
+}
