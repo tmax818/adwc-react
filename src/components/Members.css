@@ -1,0 +1,36 @@
+body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight:300;
+    font-size: 18px;
+    line-height: 1.428571429;
+    color: #333333;
+    background: url(../images/bg.jpg) #fff;
+  }
+  *,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+h2,
+.h2 {
+  font-size: 36px;
+  line-height:36px;
+}
+  input {
+	background:#fff;
+	color: #333;
+	font-weight:300;
+	border:0px;
+	width:100%;
+	padding:6px 12px;
+	border:1px solid #dbdbdb;
+}
+
+.content-wrapper {
+	margin:0px auto;
+	padding:0px 0px 500px 0px;
+	background:#f2f2f2;
+	 min-height:400px;
+}
